@@ -1,7 +1,7 @@
 ### PDF Plugin for Total Commander
 This plugin can be installed into Total Commander. It allows to view PDF files as if they were a ZIP file.
 
-Because PDF files are documents, the plugin turns them into virtual files.
+Because PDF files are documents, the plugin turns PDF objects into virtual files.
 
 ### Build Requirements
 To build the PDF plugin, you need to have one of these build environments
@@ -25,7 +25,7 @@ git clone https://github.com/ladislav-zezula/Aaa.git
 ```
 git clone https://github.com/ladislav-zezula/wcx_pdf.git
 cd wcx_pdf
-make-msvc.bat /web
+make-msvc.bat
 ```
 The installation package "wcx_pdf.zip" will be in the project directory.
 
