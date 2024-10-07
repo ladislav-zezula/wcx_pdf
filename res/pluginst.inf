@@ -1,0 +1,8 @@
+[plugininstall]
+description=Plugin for browsing and extracting PDF files
+
+type=wcx
+file=pdf.wcx
+defaultdir=pdf
+defaultextension=pdf_dat
+
